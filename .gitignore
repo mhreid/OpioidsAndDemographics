@@ -1,3 +1,3 @@
 project1/nsduh_stata
-__pycache__/
-.ipynb_checkpoints/
+project1/__pycache__/
+project1/.ipynb_checkpoints/
