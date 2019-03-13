@@ -59,7 +59,7 @@ This difference in probabilities of abuse between insurance types suggests that 
 The other notable difference between the groups is the probability of opioid abuse being in the distant past rather than being recent or continued is much higher in the group with private health insurance. A likely explanation could be that increased financial and medical resources help people to overcome dependencies. We did not investigate frequency of misuse since frequency of use data was not available, which we felt would make for an incomplete comparison. However, because we did not study frequency, it is also possible that people in this group were never dependent in the first place, and these uses and abuses were one time occurrences.
 
 #### Comparison: recency of use of painkillers by private health insurance vs others
-<img src="img/chart.png" width="700">
+<img src="img/chart.png" width="400">
 <br>
 
 A further study should be done on users with a history of opioid use (prescribed or otherwise). In this future study variables related to frequency of doctor's visits, coverage of prescriptions, ability to pay for prescriptions and doctor's visits, rates of disability and chronic pain, frequency of misuse within time periods, and other factors related to access to healthcare should be tracked. After we are able to control for these variables, we can start to test causation hypotheses.
