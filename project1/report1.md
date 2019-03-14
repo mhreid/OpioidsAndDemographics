@@ -3,8 +3,8 @@
 
 
 ## How does health insurance affect rates of use and abuse of opioids?
-  There has been research showing that [health insurance can lead to prescription opioid overuse, fueling the opioid epidemic.](https://www.jhsph.edu/news/news-releases/2018/health-insurance-plans-may-be-fueling-opioid-epidemic.html) However, there has been little done to look into variations across insurance types, or comparative rates of use and abuse between the insured and uninsured.
-  Our goal is to identify weak points in the American healthcare system that could be investigated to pinpoint opioid dependency factors, through the analysis of opioid use and abuse across populations with private, public, or no health insurance.
+There has been research showing that [health insurance can lead to prescription opioid overuse, fueling the opioid epidemic.](https://www.jhsph.edu/news/news-releases/2018/health-insurance-plans-may-be-fueling-opioid-epidemic.html) However, there has been little done to look into variations across insurance types, or comparative rates of use and abuse between the insured and uninsured.
+Our goal is to identify weak points in the American healthcare system that could be investigated to pinpoint opioid dependency factors, through the analysis of opioid use and abuse across populations with private, public, or no health insurance.
 
 ## Methodology
 For this project we used data from the National Survey on Drug Use and Health from the year 2017. We investigated variables related to prescription painkiller use and misuse, compared against the categorical variable of health insurance type. This project does not account for trends over time, and is only meant to reflect recent history.
@@ -25,10 +25,6 @@ However, those with private insurance were slightly less likely to have abused p
 <img src="img/misused.PNG" width="700">
 <br>
 
-
-
-
-
 We also included a variable for other types of health insurance which were not sorted. Because this grouping is not intentionally defined, it will be excluded from analysis, but it could be factored in at a later time if a study is done with more detail on which people fall into this category.
 
 These crosstabs also included information on recency of use, but it is difficult to make sense of recency when taking into account those who had never used painkillers at all. Because of this, we created the same crosstabs and filtered for those who had ever used painkillers in their lifetime.
@@ -46,7 +42,7 @@ We also found that those with private health insurance were much more likely to 
 #### Recency of use by those who have taken painkillers in the past
 <img src="img/cont use.PNG" width="450">
 <br>
-While there were clear trends in misuse, the total percentage of people who had misused painkillers was low, even controlling for those who had used painkillers at some point in their life. We decided to also investigate continued use of painkillers. While the data did not include first usages or time period of usage, we were able to compare recency between the groups. We found that of those who had ever used prescription painkillers, those with Medicaid had a 71% probability of having used painkillers in the past year, compared to 50% and 59% for private or no health insurance, respectively. This is a strong indicator that those with Medicaid are staying on painkillers for noticeably longer time periods.
+While there were clear relationships in misuse, the total percentage of people who had misused painkillers was low, even controlling for those who had used painkillers at some point in their life. We decided to also investigate continued use of painkillers. While the data did not include first usages or time period of usage, we were able to compare recency between the groups. We found that of those who had ever used prescription painkillers, those with Medicaid had a 71% probability of having used painkillers in the past year, compared to 50% and 59% for private or no health insurance, respectively. This is a strong indicator that those with Medicaid are staying on painkillers for noticeably longer time periods.
 
 We found that the relatively lower rate of misuse for those with private health insurance (versus public or no health insurance) became even more pronounced when viewing only those who had used prescription painkillers at some point in time.  
 
