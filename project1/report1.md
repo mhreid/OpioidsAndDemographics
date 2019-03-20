@@ -1,8 +1,7 @@
-# Report
+# How does health insurance affect rates of use and abuse of opioids?
+
 #### Filipe F. Borba and Micah H. Reid
 
-
-## How does health insurance affect rates of use and abuse of opioids?
 A study at Johns Hopkins University has shown that [health insurance can lead to prescription opioid overuse, fueling the opioid epidemic.](https://www.jhsph.edu/news/news-releases/2018/health-insurance-plans-may-be-fueling-opioid-epidemic.html) However, there has been little done to look into variations across insurance types, or comparative rates of use and abuse between the insured and uninsured.
 
 
